@@ -1,5 +1,5 @@
-# FileUploadDownload
-this is a simple file upload download app built using Node,Express,MongoDB,EJS and few other packages.
+# File Uploader and Downloader
+This is a simple file upload download app built using NodeJs,Express,MongoDB,EJS,CSSand few other packages.
 
 Usage
 
