@@ -35,7 +35,7 @@
                  <h3><%= data[i].picpath.substr(8)%></h3>
                    </td>
                    <td>
-                <form action="/download/<%= data[i]._id%>">
+                <form action="/download/<%= data[i]._id%>" method="GET">
                  <input type="submit" value="download">
                 </form>
                    </td>
